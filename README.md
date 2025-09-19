@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jewel</h1>
 <h3 align="center">A SEO Expert & Content Writer from Bangladesh</h3>
-I help businesses grow their online presence with strategic SEO, keyword research, and high-quality content.
+I help businesses grow their online presence with strategic SEO, keyword research, and high-quality content. I craft data-driven SEO strategies and write engaging, search-optimized content that ranks and converts.
 
 ## 💬 Ask me about
 - On-page & Technical SEO
